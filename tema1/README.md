@@ -1,5 +1,5 @@
 # Exposicion 1
-
+![imagen](img/tema1.png "imagen")
 
 ## Comentarios, variables, constantes
 ### Comentarios
